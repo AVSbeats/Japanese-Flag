@@ -4,8 +4,8 @@ function draw()
   var canvasContext = canvas.getContext("2d");
 
   drawPole(canvasContext);
-  drawBorder(canvasContext, 50, 0, 300, 200);
-  drawCircle(canvasContext, 200, 100, 50);
+  drawBorder(canvasContext, 30, 0, 300, 200);
+  drawCircle(canvasContext, 185, 100, 50);
 }
 
 function drawPole(canvasContext)
