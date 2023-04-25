@@ -10,7 +10,7 @@ function draw()
 
 function drawPole(canvasContext)
 {
-    drawRectangle(canvasContext, 0, 0, 50, 500, "grey");
+    drawRectangle(canvasContext, 0, 0, 30, 500, "grey");
 }
 
 function drawRectangle(canvasContext, x, y, width, height, color)
