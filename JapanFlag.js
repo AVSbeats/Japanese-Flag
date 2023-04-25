@@ -5,7 +5,7 @@ function draw()
 
   drawPole(canvasContext);
   drawBorder(canvasContext, 50, 0, 300, 200);
-  drawCircle(canvasContext, 200, 100, 45);
+  drawCircle(canvasContext, 200, 100, 50);
 }
 
 function drawPole(canvasContext)
